@@ -76,6 +76,7 @@ dioxus-asset-resolver = { version = "0.7" }
 manganis = { version = "0.7" }
 dioxus-document = { version = "0.7" }
 dioxus-history = { version = "0.7" }
+futures-channel = "0.3"
 
 # Dioxus hot reload
 dioxus-devtools = { version = "0.7" }
